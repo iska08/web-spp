@@ -1,4 +1,4 @@
-# SPPR
+# SPP
 Website SPP Sekolah Dibuat Dengan : 
 - Framework Laravel 8
 - Template AdminLTE-3
@@ -21,7 +21,7 @@ username : admin123
 password : password
 
 - PETUGAS
-username : elaina123
+username : indah123
 password : password
 
 - SISWA
@@ -35,7 +35,7 @@ password : password
 
 # AUTENTIKASI
 Password default dari siswa , petugas , admin yang ditambahkan 
-adalah : sppr2021 (jika belum di ubah) / (jika bukan ditambahkan dari database seeder)
+adalah : spp2021 (jika belum di ubah) / (jika bukan ditambahkan dari database seeder)
 
 
 # FEATURES 
