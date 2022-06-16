@@ -14,7 +14,7 @@
   <!-- Theme style -->
   <link rel="stylesheet" href="{{ asset('templates/backend/AdminLTE-3.1.0') }}/dist/css/adminlte.min.css">
 </head>
-<body class="hold-transition login-page">
+<body class="hold-transition login-page dark-mode">
 <div class="login-box" style="margin-bottom: 20vh;">
   <div class="login-logo">
     <a href=""><b>SPP</b></a>
